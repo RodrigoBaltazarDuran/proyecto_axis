@@ -14,7 +14,7 @@
 
     <!-- Barra de navegación -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <div class="container-fluid">
+        <div class="container-fluid" style="width: 90%;">
             <a class="navbar-brand text-center" href="#">
                 <p class="m-0">GRUPO</p>
                 <p class="m-0">AXIS</p>
