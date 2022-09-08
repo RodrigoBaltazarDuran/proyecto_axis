@@ -152,56 +152,56 @@
         </button>
     </div>
 
-    <div style="width: 90%; margin: auto;">
+    <div class="container" style="width: 90%;">
         <!-- DATO IMPORTANTE -->
-        <h2 class="text-center py-3 fw-bolder border-bottom border-secondary" style="color: #EB540A;">
+        <h2 class="row text-center py-3 fw-bolder border-bottom border-secondary" style="color: #EB540A;">
             45 AÑOS DE EXCELENCIA INDUSTRIAL    
         </h2>
         <!-- OBJETIVOS -->
-        <div class="d-flex justify-content-around py-3 border-bottom border-secondary">
-            <div class="me-3">
+        <div class="row py-3 border-bottom border-secondary">
+            <div class="col-md">
                 <h3 style="color: #EB540A; font-size: 1.3rem;">OBJETIVO</h3>
-                <div class="d-flex">
-                    <p class="me-3">icono</p>
-                    <p style="font-size: 0.8em;">Diseñar y fabricar equipos para la producción de refinados y petroquímicos, dando absoluta prioridad al medio ambiente.</p>
+                <div class="row">
+                    <p class="col-2 p-0">icono</p>
+                    <p class="col-10" style="font-size: 0.8em;">Diseñar y fabricar equipos para la producción de refinados y petroquímicos, dando absoluta prioridad al medio ambiente.</p>
                 </div>
             </div>
-            <div class="me-3">
+            <div class="col-md">
                 <h3 style="color: #EB540A; font-size: 1.3rem;">VISIÓN</h3>
-                <div class="d-flex">
-                    <p class="me-3">icono</p>
-                    <p style="font-size: 0.8em;">Posicionar a GRUPO AXIS como el corporativo líder en el mercado nacional e internacional de bienes de capital.</p>
+                <div class="row">
+                    <p class="col-2 p-0">icono</p>
+                    <p class="col-10" style="font-size: 0.8em;">Posicionar a GRUPO AXIS como el corporativo líder en el mercado nacional e internacional de bienes de capital.</p>
                 </div>
             </div>
-            <div class="me-3">
+            <div class="col-md">
                 <h3 style="color: #EB540A; font-size: 1.3rem;">ESPÍRITU AXIS</h3>
-                <div class="d-flex">
-                    <p class="me-3">icono</p>
-                    <p style="font-size: 0.8em;">Cumplimiento en tiempo y presupuesto, trabajo en equipo, responsabilidad social, enfoque a mejora continua.</p>
+                <div class="row">
+                    <p class="col-2 p-0">icono</p>
+                    <p class="col-10" style="font-size: 0.8em;">Cumplimiento en tiempo y presupuesto, trabajo en equipo, responsabilidad social, enfoque a mejora continua.</p>
                 </div>
             </div>
         </div>
         <!-- INTERESES -->
-        <div class="d-flex justify-content-around py-3 border-bottom border-secondary">
-            <div class="me-3">
+        <div class="row py-3 border-bottom border-secondary">
+            <div class="col-md">
                 <h3 style="color: #EB540A; font-size: 1.3rem;">OBJETIVO</h3>
-                <div class="d-flex">
-                    <p class="me-3">icono</p>
-                    <p style="font-size: 0.8em;">Diseñar y fabricar equipos para la producción de refinados y petroquímicos, dando absoluta prioridad al medio ambiente.</p>
+                <div class="row">
+                    <p class="col-2 p-0">icono</p>
+                    <p class="col-10" style="font-size: 0.8em;">Diseñar y fabricar equipos para la producción de refinados y petroquímicos, dando absoluta prioridad al medio ambiente.</p>
                 </div>
             </div>
-            <div class="me-3">
+            <div class="col-md">
                 <h3 style="color: #EB540A; font-size: 1.3rem;">VISIÓN</h3>
-                <div class="d-flex">
-                    <p class="me-3">icono</p>
-                    <p style="font-size: 0.8em;">Posicionar a GRUPO AXIS como el corporativo líder en el mercado nacional e internacional de bienes de capital.</p>
+                <div class="row">
+                    <p class="col-2 p-0">icono</p>
+                    <p class="col-10" style="font-size: 0.8em;">Posicionar a GRUPO AXIS como el corporativo líder en el mercado nacional e internacional de bienes de capital.</p>
                 </div>
             </div>
-            <div class="me-3">
+            <div class="col-md">
                 <h3 style="color: #EB540A; font-size: 1.3rem;">ESPÍRITU AXIS</h3>
-                <div class="d-flex">
-                    <p class="me-3">icono</p>
-                    <p style="font-size: 0.8em;">Cumplimiento en tiempo y presupuesto, trabajo en equipo, responsabilidad social, enfoque a mejora continua.</p>
+                <div class="row">
+                    <p class="col-2 p-0">icono</p>
+                    <p class="col-10" style="font-size: 0.8em;">Cumplimiento en tiempo y presupuesto, trabajo en equipo, responsabilidad social, enfoque a mejora continua.</p>
                 </div>
             </div>
         </div>
