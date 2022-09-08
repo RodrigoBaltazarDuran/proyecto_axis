@@ -155,7 +155,7 @@
     <div class="container" style="width: 90%;">
         <!-- DATO IMPORTANTE -->
         <h2 class="row text-center py-3 fw-bolder border-bottom border-secondary" style="color: #EB540A;">
-            45 AÑOS DE EXCELENCIA INDUSTRIAL    
+            <p class="m-0 p-0">45 AÑOS DE EXCELENCIA INDUSTRIAL</p>    
         </h2>
         <!-- OBJETIVOS -->
         <div class="row py-3 border-bottom border-secondary">
